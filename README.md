@@ -1,2 +1,2 @@
 # modern-python
-workjing through hypermodern-python
+working through hypermodern-python
