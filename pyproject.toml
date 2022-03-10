@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "modern-python"
+version = "0.1.0"
+description = "The hypermodern Python Project"
+authors = ["Stephen Kilbourn <stephenkilbourn@gmail.com>"]
+license = "MIT"
+readme="README.md"
+homepage = "https://github.com/stephenkilbourn/hypermodern-python"
+repository = "https://github.com/stephenkilbourn/hypermodern-python"
+keywords = ["hypermodern"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+click = "^8.0.4"
+requests = "^2.27.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+modern-python = "modern_python.console:main"
