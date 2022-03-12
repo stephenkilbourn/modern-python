@@ -36,3 +36,4 @@ source = ["modern_python"]
 [tool.coverage.report]
 show_missing = true
 fail_under = 100
+
