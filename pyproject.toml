@@ -18,6 +18,13 @@ requests = "^2.27.1"
 pytest = "^7.0.1"
 pytest-cov = "^3.0.0"
 pytest-mock = "^3.7.0"
+black = "^22.1.0"
+flake8 = "^4.0.1"
+flake8-bandit = "^3.0.0"
+flake8-black = "^0.3.2"
+flake8-bugbear = "^22.1.11"
+flake8-import-order = "^0.18.1"
+safety = "^1.10.3"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
