@@ -1,8 +1,11 @@
 [flake8]
-select = B,B9,BLK,C,E,F,I,S,W
+select = ANN,B,B9,BLK,C,E,F,I,S,W
 ignore = E203,E501,W503
-max-line-length = 80
+max-line-length = 90
 max-complexity = 10
 application-import-names = modern_python,tests
 import-order-style = google
-per-file-ignores = tests/*:S101
+per-file-ignores =
+    tests/conftest.py: I001,S101,
+    tests/test_console.py: I001,S101,
+    tests/*:S101
