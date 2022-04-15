@@ -31,6 +31,11 @@ mypy = "^0.941"
 pytype = {version = "^2022.3.8", python = "3.9"}
 typeguard = "^2.13.3"
 flake8-annotations = "^2.7.0"
+flake8-docstrings = "^1.6.0"
+darglint = "^1.8.1"
+xdoctest = "^1.0.0"
+Sphinx = "^4.5.0"
+sphinx-autodoc-typehints = "^1.18.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
