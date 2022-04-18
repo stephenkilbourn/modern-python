@@ -42,7 +42,7 @@ def random_page(language: str = "en") -> Page:
             contained an invalid body.
 
     Example:
-        >>> from modern_python import wikipedia
+        >>> from kilbourn_modern_python import wikipedia
         >>> page = wikipedia.random_page(language="en")
         >>> bool(page.title)
         True

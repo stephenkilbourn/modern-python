@@ -1,1 +1,1 @@
-"""Test suite for the modern_python package."""
+"""Test suite for the kilbourn_modern_python package."""

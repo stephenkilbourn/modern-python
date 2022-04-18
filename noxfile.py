@@ -5,7 +5,7 @@ from typing import Any
 import nox
 from nox.sessions import Session
 
-package = "modern_python"
+package = "kilbourn_modern_python"
 nox.options.sessions = "lint", "mypy", "pytype", "safety", "tests"
 locations = "src", "tests", "noxfile.py", "docs/conf.py"
 

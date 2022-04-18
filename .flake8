@@ -3,7 +3,7 @@ select = ANN,B,B9,BLK,C,D,DAR,E,F,I,S,W
 ignore = E203,E501,W503
 max-line-length = 90
 max-complexity = 10
-application-import-names = modern_python,tests
+application-import-names = kilbourn_modern_python,tests
 import-order-style = google
 per-file-ignores =
     tests/conftest.py: I001,S101,

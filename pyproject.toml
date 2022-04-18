@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "modern-python"
+name = "kilbourn-modern-python"
 version = "0.1.0"
 description = "The hypermodern Python Project"
 authors = ["Stephen Kilbourn <stephenkilbourn@gmail.com>"]
@@ -43,14 +43,14 @@ requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-modern-python = "modern_python.console:main"
+modern-python = "kilbourn_modern_python.console:main"
 
 [tool.coverage.paths]
 source = ["src", "*/site-packages"]
 
 [tool.coverage.run]
 branch = true
-source = ["modern_python"]
+source = ["kilbourn_modern_python"]
 
 [tool.coverage.report]
 show_missing = true

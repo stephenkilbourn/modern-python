@@ -6,7 +6,7 @@ import pytest
 from pytest_mock import MockFixture
 import requests
 
-from modern_python import console
+from kilbourn_modern_python import console
 
 
 @pytest.fixture
@@ -18,7 +18,7 @@ def runner() -> CliRunner:
 @pytest.fixture
 def mock_wikipedia_random_page(mocker: MockFixture) -> Mock:
     """Fixture mocking wikipedia.random_page."""
-    return mocker.patch("modern_python.wikipedia.random_page")
+    return mocker.patch("kilbourn_modern_python.wikipedia.random_page")
 
 
 def test_main_succeeds(runner: CliRunner, mock_requests_get: Mock) -> None:

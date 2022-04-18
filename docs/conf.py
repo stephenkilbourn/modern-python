@@ -1,5 +1,5 @@
 """Sphinx configuration."""
-project = "modern-python"
+project = "kilbourn-modern-python"
 author = "Stephen Kilbourn"
 copyright = f"2022, {author}"
 extensions = [
