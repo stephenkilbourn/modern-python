@@ -6,15 +6,15 @@ Reference
     :backlinks: none
 
 
-modern_python.console
---------------------------
+kilbourn_modern_python.console
+------------------------------
 
-.. automodule::rmodern_python.console
+.. automodule::kilbourn_modern_python.console
    :members:
 
 
-modern_python.wikipedia
-----------------------------
+kilbourn_modern_python.wikipedia
+--------------------------------
 
-.. automodule:: modern_python.wikipedia
+.. automodule:: kilbourn_modern_python.wikipedia
    :members:

@@ -23,7 +23,7 @@ run this command in your terminal:
 
 .. code-block:: console
 
-   $ pip install modern-python
+   $ pip install kilbourn-modern-python
 
 
 Usage

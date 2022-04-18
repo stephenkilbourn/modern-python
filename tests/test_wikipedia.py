@@ -4,7 +4,7 @@ from unittest.mock import Mock
 import click
 import pytest
 
-from modern_python import wikipedia
+from kilbourn_modern_python import wikipedia
 
 
 def test_random_page_uses_given_language(mock_requests_get: Mock) -> None:
