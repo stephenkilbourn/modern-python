@@ -2,4 +2,4 @@
 
 
 # modern-python
-working through [hypermodern-python] (https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+working through [hypermodern-python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
