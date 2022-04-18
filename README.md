@@ -1,4 +1,4 @@
-[![Tests](https://github.com/stephenkilbourn/modern-python/workflows/Tests/badge.svg)](https://github.com/stephenkilbourn/modern-python/actions?workflow=Tests) [![Codecov](https://codecov.io/gh/stephenkilbourn/modern-python/branch/master/graph/badge.svg)](https://codecov.io/gh/stephenkilbourn/modern-python)
+[![Tests](https://github.com/stephenkilbourn/modern-python/workflows/Tests/badge.svg)](https://github.com/stephenkilbourn/modern-python/actions?workflow=Tests) [![codecov](https://codecov.io/gh/stephenkilbourn/modern-python/branch/main/graph/badge.svg?token=BVRCL8CZZB)](https://codecov.io/gh/stephenkilbourn/modern-python)
 
 
 
