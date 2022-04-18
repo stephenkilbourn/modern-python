@@ -1,4 +1,5 @@
-[![Tests](https://github.com/stephenkilbourn/modern-python/workflows/Tests/badge.svg)](https://github.com/stephenkilbourn/modern-python/actions?workflow=Tests)
+[![Tests](https://github.com/stephenkilbourn/modern-python/workflows/Tests/badge.svg)](https://github.com/stephenkilbourn/modern-python/actions?workflow=Tests) [![Codecov](https://codecov.io/gh/stephenkilbourn>/hypermodern-python/branch/master/graph/badge.svg)](https://codecov.io/gh/stephenkilbourn/hypermodern-python)
+
 
 
 # modern-python
