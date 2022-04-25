@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/stephenkilbourn/modern-python/branch/main/graph/badge.svg?token=BVRCL8CZZB)](https://codecov.io/gh/stephenkilbourn/modern-python)
 [![PyPI](https://img.shields.io/pypi/v/kilbourn-modern-python.svg)](https://pypi.org/project/kilbourn-modern-python/)
 
-
+[![Read the Docs](https://readthedocs.org/projects/kilbourn-modern-python/badge/)](https://readthedocs.org/projects/kilbourn-modern-python/)
 
 
 # modern-python
